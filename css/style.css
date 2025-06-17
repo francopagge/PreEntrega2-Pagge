@@ -28,9 +28,20 @@ ul {
     font-size: 25px;
 }
 
+.home {
+    display: inline-block;
+}
+
+img {
+    width: 5em;
+    height: 5em;
+    border-radius: 20px;
+}
+
 .imagen-index {
     width: 5em;
     height: 5em;
     border-radius: 20px;
 }
+
 
