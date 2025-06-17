@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+
+.content-box {
+    background-color: bisque;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.contacto {
+    width: 150px;
+    height: 90px;
+    line-height: 80px;
+    background-color: aliceblue;
+    text-align: center;
+    border: 5px solid grey;
+    border-radius: 100px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+}
+
+.imagen-index {
+    width: 10em;
+    height: 10em;
+    border-radius: 20px;
+}
+
